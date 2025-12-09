@@ -1,0 +1,105 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+
+    
+}
+body{
+   background:white ;
+}
+.place{
+    padding-left: 40%;
+    padding-top: 10%;
+}
+.report{
+    width: 300px;
+    height: 400px;
+   background-color: lightgrey;
+    border-radius: 5px;
+    align-items: center;
+    padding:10px;
+    justify-content: center;
+    align-items: center;
+    
+}
+.report p{
+    padding-top: 20%;
+    padding-left:60px;
+    font-size: 30px;
+    font-weight: 70px;
+    padding-bottom: 10px;
+    color: crimson;
+    
+}
+.names{
+    background-color: white;
+    border-radius: 5px;
+    color: black;
+    width: 230px;
+    text-align: center;
+    height: 30px;
+}
+.name_sec{
+    padding:10px;
+    padding-left: 35px;
+}
+.names:hover{
+     transform: scale(1.03) ease;
+     cursor: pointer;
+}
+.emails{
+       background-color: white;
+    border-radius: 5px;
+    color: black;
+    width: 230px;
+   text-align: center;
+    height: 30px;
+}
+.mail_sec{
+    padding:10px;
+    padding-left: 35px;
+}
+.emails{
+     transform: scale(1.03) ease;
+     cursor: pointer;
+}
+.paragraphs{
+       background-color: white;
+    border-radius: 5px;
+    color: black;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    text-align: center;
+    width: 200px;
+    height: 30px;
+    padding: 20px;
+}
+.para_sec{
+    padding:10px;
+    padding-left: 35px;
+}
+.paragraphs:hover{
+     transform: scale(1.03) ease;
+     cursor: pointer;
+}
+.sub{
+    background-color:rgb(35, 35, 100);
+    color: white;
+    height: 30px;
+    width: 60px;
+    border-radius: 5px;
+   align-items: center;
+  
+}
+.sub_sec{
+    padding-top: 20px;
+    padding-left: 130px;
+}
+.sub:hover{
+    transform: scale(1.03) ease;
+    cursor: pointer;
+    background-color: rgb(17, 93, 122);
+
+}
